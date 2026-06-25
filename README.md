@@ -56,7 +56,7 @@ Full-stack developer and 3D artist based in the US Midwest. I build web apps wit
       <img src="https://img.shields.io/badge/Rive%20-F5792A?style=flat&logo=rive&logoColor=white" alt="Rive"><br>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"><br>
       <img src="https://img.shields.io/badge/Creative%20Cloud-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white" alt="Adobe Creative Cloud"><br>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"><br>
+      <img src="https://img.shields.io/badge/Davinci%20Resolve-233A51?style=flat&logo=davinciresolve&logoColor=white" alt="Davinci"><br>
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira"><br>
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion">
     </td>
