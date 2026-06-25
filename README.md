@@ -28,7 +28,7 @@ Full-stack developer and 3D artist based in the US Midwest. I build web apps wit
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"><br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/CSS4-1572B6?style=flat&logo=css&logoColor=white" alt="CSS3">
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/Payload-000000?style=flat&logo=payloadcms&logoColor=white" alt="Payload"><br>
