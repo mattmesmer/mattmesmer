@@ -1,7 +1,7 @@
 ## 👋 About Me
 Hey, I'm Matt Mesmer!
 
-Full-stack developer and 3D artist based in the US Midwest. I build web apps with Payload + Next.js while creating user interfaces, VFX renders, and environments in Blender/UE5.🪄
+Full-stack developer and 3D artist based in the US Midwest. I build web apps with Payload + Next.js while creating magical user experiences, VFX renders, and environments in Blender/UE5.🪄
 
 ❤️ always open source
 
