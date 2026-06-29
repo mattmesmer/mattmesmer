@@ -6,7 +6,7 @@ Full-stack developer and 3D artist based in the US Midwest. I build web apps wit
 ❤️ always open source
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matt@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mattmesmer.dev@gmail.com)
 [![Socials](https://img.shields.io/badge/Socials-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mattmesmer)
 
 <a href='https://ko-fi.com/M4M819Y5XB' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
