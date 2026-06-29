@@ -47,7 +47,7 @@ Full-stack developer and 3D artist based in the US Midwest. I build web apps wit
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"><br>
       <img src="https://img.shields.io/badge/Netlify-000000?style=flat&logo=netlify&logoColor=#00C7B7" alt="Netlify"><br>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"><br>
-      <img src="https://img.shields.io/badge/PocketBase-000000?style=flat&logo=pocketbase&logoColor=white" alt="PocketBase"><br>
+      <img src="https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white" alt="Tailscale"><br>
       <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" alt="DigitalOcean"><br>
             <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"><br>
       <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS"><br>
